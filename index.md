@@ -25,7 +25,7 @@ My favorite things:
 
 
 <script src="processing.min.js"></script>
-<canvas data-processing-sources="hello-web.pde"></canvas>
+<canvas data-processing-sources="bouncing_ball.pde"></canvas>
 
 
 
