@@ -13,8 +13,9 @@ My favorite things:
 [STEM Program](http://stem.marlborough.org)
 
 
+
 ## Play stuff
 
-
+![A cute cat](cat.jpg)
 
 
