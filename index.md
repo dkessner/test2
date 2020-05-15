@@ -24,3 +24,9 @@ My favorite things:
 ![A cute cat](cat.jpg)
 
 
+<script src="processing.min.js"></script>
+<canvas data-processing-sources="hello-web.pde"></canvas>
+
+
+
+
